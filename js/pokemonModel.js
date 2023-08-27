@@ -1,3 +1,5 @@
+// Pokemon Class to be used for pokemon details 
+
 class Pokemon {
     number;
     name;

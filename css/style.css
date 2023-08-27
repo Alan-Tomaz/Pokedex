@@ -350,14 +350,3 @@ ul {
 .bg-dark {
     background-color: #4d3b30;
 }
-
-.footer {
-    width: 200px;
-    display: flex;
-    justify-content: space-between;
-}
-
-.footer>img {
-    margin-top: .5rem;
-    display: none;
-}
